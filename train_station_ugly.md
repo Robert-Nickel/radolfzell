@@ -1,0 +1,1 @@
+Das ist richtig! Wende dich nun vom Bahnhof ab und laufe geradeaus, bis du rechts eine große Kirche siehst. Wenn du da bist, drücke [hier](http://robertnickel.online/church.html).
