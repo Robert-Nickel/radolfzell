@@ -1,6 +1,13 @@
-# Welche dieser Städte grenzt nicht an Radolfzell?
+Hallo!
 
-## [Moos (am Bodensee)](https://www.youtube.com/watch?v=R8MWKsheHxk)  
-## [Stockach](https://www.youtube.com/watch?v=R8MWKsheHxk)  
-## [Schwerin](https://www.youtube.com/watch?v=XRr1kaXKBsU)  
-## [Reichenau](https://www.youtube.com/watch?v=R8MWKsheHxk)  
+Danke, dass du dich dafür entschieden hast, unser wunderschönes Radolfzell zu kennen zu lernen.  
+Einige Hinweise vorab:
+- Die Stadtführung dauert zwischen 1,5 und 2,5 Stunden.
+- Du musst über keine Zäune klettern. Falls doch, bist du auf dem falschen Weg.
+- Du kannst diese Stadtführung so oft du willst mit beliebig vielen Leuten machen.
+- Bitte halte Abstand und trage eine Maske dort, wo es gefordert wird.
+- Wenn du einmal nicht weiter kommst, ruf mich an: 0 1234 / 56 7 89
+
+{% for post in posts %}
+    {{ post }}
+{% endfor %}
