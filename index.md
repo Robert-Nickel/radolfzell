@@ -8,7 +8,7 @@ Einige Hinweise vorab:
 - Bitte halte Abstand und trage eine Maske dort, wo es gefordert wird.
 - Wenn du einmal nicht weiter kommst, ruf mich an: 0 1234 / 56 7 89
 
-{% for post in posts %}
+{% for post in site.posts %}
     ## {{ post.title }}
     {% for answer in post.answers %}
     ### {{ answer }}
