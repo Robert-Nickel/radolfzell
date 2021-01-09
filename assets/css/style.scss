@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.description {
+    font-size: large;
+}
+
 .question {
     margin-top: 3em;
+    margin-bottom: 1em;
     text-align: center;
     font-size: xx-large;
 }

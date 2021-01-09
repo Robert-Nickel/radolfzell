@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Radolfzell
 description: Eine virtuelle Stadtführung.
+permalink: /:title.html
+baseurl: /radolfzell
