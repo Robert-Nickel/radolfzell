@@ -1,11 +1,12 @@
 ---
+layout: post
 id: 0
 title: Wie schön ist unser Bahnhof?
 answers:
     - text: Hässlich
-      link: https://www.youtube.com/watch?v=SWSz_PAfgNc
+      link: https://robertnickel.online/radolfzell/train_station_ugly.html
     - text: Mittel
-      link: https://www.youtube.com/watch?v=3s7glQz0b_E
+      link: https://robertnickel.online/radolfzell/train_station_wrong.html
     - text: Schön
-      link: https://www.youtube.com/watch?v=z3H87AiktEk
+      link: https://robertnickel.online/radolfzell/train_station_wrong.html
 ---
