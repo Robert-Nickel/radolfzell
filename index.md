@@ -6,11 +6,12 @@ Einige Hinweise vorab:
 - Du musst über keine Zäune klettern. Falls doch, bist du auf dem falschen Weg.
 - Du kannst diese Stadtführung so oft du willst mit beliebig vielen Leuten machen.
 - Bitte halte Abstand und trage eine Maske dort, wo es gefordert wird.
-- Wenn du einmal nicht weiter kommst, ruf mich an: 0 1234 / 56 7 89
+- Diese Seite ist schlicht, damit du dich nicht von der Schönheit unserer Stadt ablenken lässt.
+Viel Spaß, Robert Nickel
 
 {% for post in site.posts %}
-    ## {{ post.title }}
+    <h1>{{ post.title }}</h1>
     {% for answer in post.answers %}
-    ### {{ answer }}
+    <h2>{{ answer }}</h2>
     {% endfor %}
 {% endfor %}
