@@ -5,7 +5,9 @@ layout: default
 <p class="description">{{ page.description }}</p>
 <p class="question">{{ page.question }}</p>
 {% for answer in page.answers %}
-<div class="button">
-    <a href="{{ answer.link }}">{{ answer.text }}</a>
-</div>
+
+<a href="{{ answer.link }}">
+    <div class="button">{{ answer.text }}</div>
+</a>
+
 {% endfor %}

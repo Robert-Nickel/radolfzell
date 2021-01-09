@@ -6,6 +6,6 @@
 - Starte die Führung vor dem Stadtmuseum, direkt gegenüber des Bahnhofs.
 Viel Spaß, Robert Nickel
 
-Wenn du vor dem Stadtmuseum stehst, drücke auf   
+Wenn du vor dem Stadtmuseum stehst, drücke auf 
 [START](https://robertnickel.online/radolfzell/start.html)
 

@@ -15,18 +15,24 @@
 }
 
 .button {
-    padding: 1em;
     margin: auto;
-    margin-bottom: .5em;
-    width: 10em;
-    float: center;
-    background-color: #222;
-    font-size: large;
+    margin-bottom: 0.5em;
+    background-color: #232323;
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
     text-align: center;
+    text-decoration: none;
+    font-size: large;
+    display: block;
     cursor: pointer;
 }
 
-.button a {
+a {
     text-decoration: none;
-    color: white;
+    &:hover,
+    &:focus {
+        border-bottom: none;
+        outline: none;
+    }
 }
