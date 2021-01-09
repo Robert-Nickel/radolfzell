@@ -1,8 +1,8 @@
 ---
 layout: question
-title: "Ein unschönes Ding"
-description: ""
-question: "Das ist falsch, es ist wirklich kein schöner Anblick. Das ist nicht subjektiv oder dergleichen."
+title: "Falsch"
+description: "Unser Bahnhof ist wirklich kein schöner Anblick. Das ist nicht subjektiv oder dergleichen."
+question: ""
 answers:
     - text: "Versuche es noch einmal."
       link: "/radolfzell/stadtmuseum.html"
