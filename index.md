@@ -7,5 +7,5 @@
 Viel Spaß, Robert Nickel
 
 Wenn du vor dem Stadtmuseum stehst, drücke auf   
-[START](http://robertnickel.online/radolfzell/start.html)
+[START](https://robertnickel.online/radolfzell/start.html)
 
