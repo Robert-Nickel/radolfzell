@@ -1,6 +1,5 @@
 ---
 layout: default
 ---
-{% for post in site.posts %}
+{% assign post = site.posts | where: question_number, 1 %}
 {{ post }}
-{% endfor %}
