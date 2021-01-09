@@ -1,3 +1,6 @@
-{% site.posts | where "id", "start" %}
+---
+layout: default
+---
+{% for post in site.posts %}
 {{ post }}
 {% endfor %}
