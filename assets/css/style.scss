@@ -32,8 +32,9 @@ a {
     text-decoration: none;
     &:hover,
     &:focus {
-        border-bottom: none;
         outline: none;
+        text-decoration: none;
+
     }
 }
 
