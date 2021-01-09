@@ -9,5 +9,8 @@ Einige Hinweise vorab:
 - Wenn du einmal nicht weiter kommst, ruf mich an: 0 1234 / 56 7 89
 
 {% for post in posts %}
-    {{ post }}
+    ## {{ post.title }}
+    {% for answer in post.answers %}
+    ### {{ answer }}
+    {% endfor %}
 {% endfor %}
