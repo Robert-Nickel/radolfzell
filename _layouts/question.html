@@ -1,4 +1,7 @@
 ---
 ---
-
-<h1>{{ question }}</h1>
+{{ page.description }}
+<h1>{{ page.question }}</h1>
+{% for answer in page.answers %}
+<h2> <a href="{{ answer.link }}">{{ answer.text }}</a></h2>
+{% endfor %}
