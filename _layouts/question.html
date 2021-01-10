@@ -11,4 +11,21 @@ layout: default
 </a>
 
 {% endfor %}
+{% if page.input %}
+<input class="input" id="answer" type="text">
+<div class="button" onclick="checkAnswer()">
+    Prüfen</div>
+{% endif %}
 <br><br>
+
+<script>
+    function checkAnswer() {
+        let answer = document.getElementById('answer').value
+        let correct_answer = {{ page.input.correct }}
+        if (answer == correct_answer) {
+            window.location.href = "{{ page.input.correct_link }}";
+        } else {
+            window.location.href = "{{ page.input.wrong_link }}";
+        }
+    }
+</script>
